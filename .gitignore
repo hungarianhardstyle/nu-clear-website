@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.astro/
+/extinct-ellipse/
+.env
+.env.*
+!.env.example
