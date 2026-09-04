@@ -11,3 +11,4 @@
 .floating-top{position:fixed;right:24px;bottom:24px;z-index:20;display:grid;place-items:center;width:48px;height:48px;border:1px solid var(--lime);background:rgba(7,8,7,.88);color:var(--lime);font-size:22px;line-height:1;transition:background .2s,color .2s,transform .2s}.floating-top:hover{background:var(--lime);color:var(--paper);transform:translateY(-4px)}@media(max-width:700px){.floating-top{right:16px;bottom:16px;width:42px;height:42px;font-size:19px}}
 .site-header{position:sticky;top:0;background:rgba(7,8,7,.94);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px)}
 .section-wrap{max-width:1360px;margin-left:auto;margin-right:auto}@media(max-width:700px){.section-wrap{max-width:none;margin-left:0;margin-right:0}}
+.ticker{max-width:1360px;margin-left:auto;margin-right:auto}@media(max-width:700px){.ticker{max-width:none}}
