@@ -1,6 +1,7 @@
 # Nu-Clear project state
 
-Last saved: 2026-09-05
+Status: CLOSED / READY TO RESUME
+Last saved: 2026-09-06
 
 - Astro static website for Nu-Clear, Hungarian/English language switcher.
 - Production domain: https://nu-clearmusic.com/
@@ -13,6 +14,7 @@ Last saved: 2026-09-05
 - Current Event JSON-LD includes `offers`, `image`, `description`, and `organizer`.
 - Scroll Craft was reviewed but not integrated; the current Nu-Clear design remains unchanged.
 
-Latest saved commit: `9208129` — Complete event structured data
+The project is considered complete for now. Resume from the latest commit on `main`.
+The full Git history and GitHub Actions deployment history are the source of truth.
 
 Local upload packages are kept in `outputs/` and are intentionally not part of the Git history.
